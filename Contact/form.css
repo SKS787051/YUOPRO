@@ -64,22 +64,19 @@ margin-top: 15px;
   display: inline-block;
   text-align: center;
   vertical-align: middle;
-  padding: 0px 2px;
-  border: 3px solid #273698;
+  padding:  0px 10px 0px 19px;
+  border: 3px solid #d7cec6;
   border-radius: 28px;
-  background: #4a66ff;
-  background: -webkit-gradient(linear, left top, left bottom, from(#4a66ff), to(#273698));
-  background: -moz-linear-gradient(top, #4a66ff, #273698);
-  background: linear-gradient(to bottom, #4a66ff, #273698);
+  background: #8080c4;
+ 
   -webkit-box-shadow: #597aff 0px -3px 40px 0px;
-  -moz-box-shadow: #597aff 0px -3px 40px 0px;
-  box-shadow: #597aff 0px -3px 40px 0px;
-  text-shadow: #17205a 1px 1px 1px;
-  font: italic normal bold 21px arial;
-  color: #ffffff;
+
+  text-shadow: #07df19 1px 1px 1px;
+  font:  21px arialblack;
+  color: #f4f4f4;
   text-decoration: none;
   margin: 0px 0 0 0px;
-  opacity: 0.3;
+  opacity: 10;
 }
 .button:hover,
 .button:focus {
