@@ -82,6 +82,7 @@ nav ul li a {
 }
 .contant p{
 color: #fff;
+
 }
 .contant h1{
     
@@ -91,6 +92,7 @@ color: #fff;
     text-align: center;
     transition: 0.5s;
     opacity: 0.3;
+  
 }
 .contant h1:hover {
 -webkit-text-stroke:2px black;
